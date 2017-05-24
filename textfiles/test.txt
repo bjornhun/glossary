@@ -1,5 +1,0 @@
-enpitsu|pencil
-pen|pen
-namae|name
-jisho|dictionary
-hon|book
