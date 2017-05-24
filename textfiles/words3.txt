@@ -1,0 +1,42 @@
+koko|here
+soko|there (near you)
+asoko|over there
+doko|where
+kochira|here (polite)
+achira|over there (polite)
+dochira|where (polite)
+kyoushitsu|classroom
+shokudou|canteen
+jimusho|office
+kaigishitsu|meeting room
+uketsuke|reception
+robii|lobby
+heya|room
+toire|toilet
+otearai|toilet (polite)
+kaidan|staircase
+erebeitaa|elverator/lift
+esukareitaa|escalator
+kuni|country
+kaisha|company
+uchi|home
+denwa|telephone
+kutsu|shoes
+nekutai|necktie
+wain|wine
+tabako|tobacco, cigarette
+uriba|department, counter
+chika|basement
+kai|-th floor
+nankai|which floor
+en|yen
+doru|dollar
+sento|cents
+ikura|how much
+hyaku|hundred
+sen|thousand
+man|ten thousand
+sumimasen|excuse me
+de gozaimasu|polite equivalent of "desu"
+o misete kudasai|please show me
+o kudasai|please give me/I'll have

@@ -1,0 +1,51 @@
+tabemasu|eat
+nomimasu|drink
+suimasu|smoke
+mimasu|see, look at, watch
+kikimasu|hear, listen
+yomimasu|read
+kakimasu|write, draw, paint
+kaimasu|buy
+torimasu|take
+shimasu|do
+aimasu|meet
+gohan|a meal, cooked rice
+asagohan|breakfast
+hirugohan|lunch
+bangohan|supper
+pan|bun, bread
+tamago|egg
+niku|meat
+sakana|fish
+yasai|vegetable
+kudamono|fruit
+mizu|water
+ocha|tea, green tea
+koucha|black tea
+gyuunyuu|milk
+juusu|juice
+biiru|beer
+sake|alcohol, Japanese rice wine
+bideo|video tape, video deck
+eiga|movie
+tegami|letter
+repooto|report
+shashin|photograph
+mise|store, shop
+resutoran|restaurant
+niwa|garden
+shukudai|homework
+tenisu|tennis
+sakkaa|soccer, football
+hanami|cherry-blossom viewing
+nani|what
+isshoni|together
+chotto|a little while, a little bit
+itsumo|always, usually
+tokidoki|sometimes
+sorekara|after that, and then
+ee|yes
+ii desu ne|that's good
+wakarimashita|I see
+nan desu ka|yes?
+ja mata|see you

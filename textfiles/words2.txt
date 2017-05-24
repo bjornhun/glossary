@@ -1,0 +1,50 @@
+kore|this (thing here)
+sore|that (thing near you)
+are|that (thing over there)
+kono|this X here
+sono|that X near you
+ano|that X over there
+hon|book
+jisho|dictionary
+kyoukasho|textbook
+zasshi|magazine
+shinbun|newspaper
+nouto|notebook
+techou|pocket notebook
+meishi|business card
+kaado|card
+terehonkaado|telephone card
+enpitsu|pencil
+pen|pen
+bourupen|ball-point pen
+shaapupenshiru|mechanical pencil
+kagi|key
+tokei|watch/clock
+kasa|umbrella
+kaban|bag/briefcase
+kasettoteipu|cassette tape
+teipurekoudaa|tape recorder
+terebi|television
+rajio|radio
+kamera|camera
+konpyuutaa|computer
+keitai denwa|mobile phone
+jidousha|car (industrial)
+kuruma|car (common)
+tsukue|desk
+isu|chair
+chokoreito|chocolate
+kouhii|coffee
+eigo|English language
+nihongo|Japanese language
+nan|what
+sou desu|that's right
+chigaimasu|that's wrong
+sou desu ka|I see
+anou|well (hesitating)
+honno kimochi desu|it's just a token of my gratitude
+douzo|please (offering)
+doumo|thanks
+doumo arigatou gozaimasu|thank you very much
+korekara osewani narimasu|I hope for you kind assistance hereafter
+kochirakoso yoroshiku|I am pleased to meet you too (response)

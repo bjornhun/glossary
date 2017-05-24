@@ -1,0 +1,36 @@
+watashi|I
+watashitachi|we
+anata|you
+ano hito|that person
+ano kata|that person (polite)
+minasan|all of you/everyone
+san|Mr/Mrs/Ms
+chan|suffix added to child's name
+kun|suffix added to boy's name
+jin|suffix meaning "a national of"
+sensei|teacher
+kyoushi|teacher(referring to job)
+gakusei|student
+kaishain|company employee
+shain|employee of (company)
+ginkouin|bank employee
+isha|medical doctor
+kenkyuusha|researcher
+enjinia|engineer
+shufu|housewife
+daigaku|university
+byouin|hospital
+denki|electricity/light
+dare|who
+donata|who (polite)
+sai|years old
+nansai|how old
+oikutsu|how old (polite)
+hai|yes
+iie|no
+shitsurei desu ga|excuse me, but...
+onamae wa|may I have your name?
+hajimemashite|how do you do? (introductory)
+douzo yoroshiku onegaishimasu|pleased to meet you
+kochira wa|this is... (person)
+kara kimashita|I came from... (country)

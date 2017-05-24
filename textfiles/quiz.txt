@@ -1,0 +1,105 @@
+hajimarimasu|start/begin
+jugyou|class/lesson
+mae|before/front (time)
+choudo|exactly (time)
+okimasu|get up, wake up
+nemasu|sleep, go to bed
+hatarakimasu|work
+yasumimasu|take a rest, take a holiday
+owarimasu|finish
+yuubinkyoku|post office
+toshokan|library
+bijutsukan|art museum
+ima|now
+gozen|a.m.
+gogo|p.m.
+asa|morning
+hiru|daytime, noon
+ban|night
+ototoi|day before yesterday
+kinou|yesterday
+kyou|today
+ashita|tomorrow
+asatte|day after tomorrow
+kesa|this morning
+konban|this evening, tonight
+yasumi|rest, holiday, day off
+hiruyasumi|lunchtime
+maiasa|every morning
+maiban|every night
+mainichi|every day
+getsuyoubi|monday
+kayoubi|tuesday
+suiyoubi|wednesday
+mokuyoubi|thursday
+kinyoubi|friday
+doyoubi|saturday
+nichiyoubi|sunday
+kara|from
+made|up to/until
+to|and (used to connect nouns)
+sochira|your place
+taihendesune|that's tough, isn't it? (express sympathy)
+eeto|well, let me see
+kashikomarimashita|certainly
+otoiawase no bangou|the number being inquired about
+ikimasu|go
+kimasu|come
+kaerimasu|go home, return
+gakkou|school
+eki|station
+hikouki|airplane
+fune|ship
+densha|electric train
+chikatetsu|subway, underground
+shinkansen|name of bullet train
+basu|bus
+jitensha|bicycle
+aruite|on foot
+hito|person, people
+kare|he, boyfriend, lover
+kanojo|she, girlfriend, lover
+kazoku|family
+hitoride|alone, by onself
+itsu|when
+tanjoubi|birthday
+futsuu|local train
+kyuukou|rapid train
+tokkyuu|express train
+tsugino|next
+bansen|-th platform
+mimasu|see, look at, watch
+kikimasu|hear, listen
+yomimasu|read
+kakimasu|write, draw, paint
+torimasu|take
+aimasu|meet
+gohan|a meal, cooked rice
+asagohan|breakfast
+hirugohan|lunch
+bangohan|supper
+pan|bun, bread
+tamago|egg
+sakana|fish
+yasai|vegetable
+kudamono|fruit
+mizu|water
+ocha|tea, green tea
+koucha|black tea
+gyuunyuu|milk
+eiga|movie
+tegami|letter
+shashin|photograph
+mise|store, shop
+niwa|garden
+shukudai|homework
+hanami|cherry-blossom viewing
+isshoni|together
+itsumo|always, usually
+tokidoki|sometimes
+sorekara|after that, and then
+ee|yes
+ii desu ne|that's good
+wakarimashita|I see
+nan desu ka|yes?
+ja mata|see you

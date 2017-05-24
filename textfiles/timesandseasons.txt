@@ -1,0 +1,44 @@
+shi|four
+shichi|seven
+ku|nine
+sanbyaku|three hundred
+roppyaku|six hundred
+happyaku|eight hundred
+sanzen|three thousand
+hassen|eight thousand
+kyou|today
+kinou|yesterday
+ashita|tomorrow
+ototoi|the day before yesterday
+asatte|the day after tomorrow
+kesa|this morning
+yoru|night
+yuube|last night
+senshuu|last week
+konshuu|this week
+raishuu|next week
+sensenshuu|the week before last
+saraishuu|the week after next
+sengetsu|last month
+kongetsu|this month
+raigetsu|next month
+sensengetsu|the month before last
+saraigetsu|the month after next
+kyounen|last year
+kotoshi|this year
+rainen|next year
+ototoshi|the year before last
+sarainen|the year after next
+mai|every (prefix)
+mainichi|everyday
+maishuu|everyweek
+maitsuki|every month
+maitoshi|every year
+fuyu|winter
+haru|spring
+natsu|summer
+aki|autumn
+ii|good
+otenki|weather
+kouen|park
+ne|(agreement seeker)

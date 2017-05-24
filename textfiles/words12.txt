@@ -1,0 +1,44 @@
+kantan|easy, simple
+chikai|near
+tooi|far
+hayai|fast, early
+osoi|slow, late
+ooi|many, much
+sukunai|few, a little
+atatakai|warm
+suzushii|cool
+amai|sweet
+karai|hot, spicy
+omoi|heavy
+karui|light
+ii|prefer
+kisetsu|season
+haru|spring
+natsu|summer
+aki|autumn, fall
+fuyu|winter
+tenki|weather
+ame|rain, rainy
+yuki|snow, snowy
+kumori|cloudy
+hoteru|hotel
+kuukou|airport
+umi|sea, ocean
+sekai|world
+paatii|party
+matsuri|festival
+shiken|examination
+sukiyaki|beef and vegetable hotpot
+sashimi|sliced raw fish
+tempura|seafood and vegetables deep fried in batter
+ikebana|flower arrangement
+momiji|autumn colors
+dochira|which one (of two things)
+dochiramo|both
+zutto|by far
+hajimete|for the first time
+tadaima|I'm home
+okaerinasai|welcome home
+sugoi desu ne|that's amazing
+demo|but
+sukaremashita|(I'm tired)

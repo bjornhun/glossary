@@ -1,0 +1,56 @@
+hansamu|handsome
+kirei|beautiful, clean
+shizuka|quiet
+nigiyaka|lively
+yuumei|famous
+shinsetsu|kind
+genki|healty, sound, cheerful
+hima|free (time)
+benri|convenient
+suteki|fine, nice, wonderful
+ookii|big, large
+chiisai|small, little
+atarashii|new
+furui|old (not person/age)
+ii|good
+warui|bad
+atsui|hot
+samui|cold (referring to temperature)
+tsumetai|cold (referring to touch)
+muzukashii|difficult
+yasashii|easy
+takai|expensive, tall, high
+yasui|inexpensive
+hikui|low
+omoshiroi|interesting
+oishi|delicious, tasty
+isogashii|busy
+tanoshii|enjoyable
+shiroi|white
+kuroi|black
+akai|red
+aoi|blue
+sakura|cherry (blossom)
+yama|mountain
+machi|town, city
+tabemono|food
+kuruma|car, vehicle
+tokoro|place
+ryou|dormitory
+benkyou|study
+seikatsu|life
+shigoto|work, business
+dou|how
+donna|what kind of ~
+dore|which one (of three or more)
+totemo|very
+amari|not so (used with negatives)
+soshite|and (used to connect sentences)
+ga|~, but ~
+o genki desu ka|How are you?
+sou desu ne|Well, let me se. (pausing)
+nihon no seikatsu ni naremashita desu ka|Have you got used to life in Japan?
+mou ippai ikaga desu ka|Won't you have another cup of ~?
+iie kekkou desu|No, I'm fine
+sorosoro shitsurei shimasu|It's almost time to leave now
+mata irasshatte kudasai|Please come again

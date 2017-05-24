@@ -1,0 +1,54 @@
+ikimasu|go
+kimasu|come
+kaerimasu|go home, return
+gakkou|school
+suupaa|supermarket
+eki|station
+hikouki|airplane
+fune|ship
+densha|electric train
+chikatetsu|subway, underground
+shinkansen|name of bullet train
+basu|bus
+takushii|taxi
+jitensha|bicycle
+aruite|on foot
+hito|person, people
+tomodachi|friend
+kare|he, boyfriend, lover
+kanojo|she, girlfriend, lover
+kazoku|family
+hitoride|alone, by onself
+senshuu|last week
+konshuu|this week
+raishuu|next week
+sengetsu|last month
+kongetsu|this month
+raigetsu|next month
+kyonen|last year
+kotoshi|this year
+rainen|next year
+gatsu|-th month of the year
+nangatsu|what month
+tsuitachi|first day of the month
+futsuka|second day of the month
+mikka|third day of the month
+yokka|fourth day of the month
+itsuka|fifth day of the month
+muika|sixth day of the month
+nanoka|seventh day of the month
+youka|eighth day of the month
+kokonoka|ninth day of the month
+tooka|tenth day of the month
+juuyokka|fourteenth day of the month
+hatsuka|twentieth day of the month
+nijuuyokka|twenty fourth day of the month
+nichi|-th day of the month/-days
+nannichi|which day of the month, how many days
+itsu|when
+tanjoubi|birthday
+futsuu|local train
+kyuukou|rapid train
+tokkyuu|express train
+tsugino|next
+bansen|-th platform

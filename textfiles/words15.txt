@@ -1,0 +1,27 @@
+tachimasu|stand up
+suwarimasu|sit down
+tsukaimasu|use
+okimasu|put
+tsukurimasu|make, produce
+urimasu|sell
+shirimasu|get to know
+sumimasu|be going to live
+kenkyuushimasu|do research
+shitteimasu|know
+sundeimasu|live (in place)
+shiryou|materials, data
+katarogu|catalog
+jikokuhyou|timetable
+fuku|clothes
+seihin|product
+sofuto|software
+senmon|speciality, field of study
+haisha|dentist
+tokoya|barber
+pureigaido|(theater) ticket agency
+dokushin|single, unmarried
+tokuni|especially
+omoidashimasu|remember, recollect
+gokazoku|your family
+irasshaimasu|be (honorable equivalent of imasu)
+koukou|senior high school

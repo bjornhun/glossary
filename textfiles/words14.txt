@@ -1,0 +1,40 @@
+tsukemasu|turn on
+keshimasu|turn off
+akemasu|open
+shimemasu|close, shut
+isogimasu|hurry
+machimasu|wait
+tomemasu|stop, park
+magarimasu|turn
+mochimasu|hold
+torimasu|take, pass
+tetsudaimasu|help (with a task)
+yobimasu|call
+hanashimasu|speak, talk
+misemasu|show
+oshiemasu|tell
+hajimemasu|start, begin
+furimasu|rain
+kopiishimasu|copy
+eakon|air conditioner
+pasupooto|passport
+namae|name
+juusho|address
+chizu|map
+shio|salt
+satou|sugar
+yomikata|how to read, way of reading
+kata|how to ~, way of ~ing
+yukkuri|slowly, leisurely
+sugu|immediately
+mata|again
+atode|later
+mou sukoshi|a little more
+mou|more, another
+ii desu yo|sure, certainly
+saa|right (used when encouraging some course of action)
+are|Oh! (in surprise or in wonder)
+shingou o migi e magatte kudasai|turn to the right at the signal
+massugu|straight
+kore de onegaishimasu|I'd like to pay with this
+otsuri|change
