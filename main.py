@@ -1,44 +1,59 @@
 from WordList import WordList
 import os
 
+supportedLanguages = ["japanese", "korean"]
+
 def getPath():
-    files = os.listdir("textfiles")
+	while True:
+		print("Do you want to practice Japanese or Korean?")
+		language = input()
+		if language not in supportedLanguages:
+			print("Language is not supported.")
+		else:
+			break
 
-    print("Please choose one of the following files:\n")
+	filepath = "textfiles/" + language + "/"
+	files = os.listdir(filepath)
 
-    for file in files:
-        print("- " + file[:-4])
 
-    filename = input() + ".txt"
+	while True:
+		print("Please choose one of the following files:\n")
 
-    if filename not in files:
-        print("File doesn't exist.")
-        return getPath()
+		for file in files:
+			print("- " + file[:-4])
 
-    return "textfiles/" + filename
+		filename = input() + ".txt"
+
+		if filename not in files:
+			print("File doesn't exist.")
+		else:
+			break
+
+
+	return filepath + filename
 
 
 def readFile(path):
-    with open(path) as f:
-        content = f.read().splitlines()
+	with open(path) as f:
+		content = f.read().splitlines()
 
-    return content
+	return content
 
 def run():
-    path = getPath()
-    content = readFile(path)
-    wordlist = WordList(content)
+	path = getPath()
+	content = readFile(path)
+	wordlist = WordList(content)
 
-    print("\nKonnichi wa! Hajimemashou!")
-    print("\nType [e] for elimination run.")
-    mode = input()
+	print("\nKonnichi wa! Hajimemashou!")
+	print("\nType [e] for elimination run.")
+	mode = input()
 
-    if (mode == "e"):
-        wordlist.elimination()
+	if (mode == "e"):
+		wordlist.elimination()
 
-    if wordlist:
-        wordlist.test()
+	if wordlist:
+		wordlist.test()
 
-    finish = input("\nWell done! Press enter to quit.")
+	finish = input("\nWell done! Press enter to quit.")
 
 run()
