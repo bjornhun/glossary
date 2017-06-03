@@ -1,0 +1,8 @@
+annyeong haseyo|hello/hi (greeting)
+gamsa hapnida|thank you
+ne|yes, agreement
+ani yo|no, disagreement
+annyeonghi gyeseyo|good bye (stay in peace)
+annyeonghi gaseyo|good bye (go in peace)
+joesong hapnida|I'm sorry, I apologize
+jeogiyo|excuse me (seeking attention)

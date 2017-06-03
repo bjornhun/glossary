@@ -1,6 +1,6 @@
-an nyeong|well-being, peace, health
-ha se yo|you do, do you?, please do
-an nyeong ha se yo|hello/hi (greeting)
-gam sa|appreciation, thankfulness, gratitude
-hap ni da|I do, I am doing
-gam sa hap ni da|thank you
+annyeong|well-being, peace, health
+haseyo|you do, do you?, please do
+annyeong haseyo|hello/hi (greeting)
+gamsa|appreciation, thankfulness, gratitude
+hapnida|I do, I am doing
+gamsa hapnida|thank you
