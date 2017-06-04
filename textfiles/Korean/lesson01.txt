@@ -1,6 +1,0 @@
-annyeong|well-being, peace, health
-haseyo|you do, do you?, please do
-annyeong haseyo|hello/hi (greeting)
-gamsa|appreciation, thankfulness, gratitude
-hapnida|I do, I am doing
-gamsa hapnida|thank you

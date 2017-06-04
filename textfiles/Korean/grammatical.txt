@@ -1,0 +1,7 @@
+ieyo|to be (after consonant)
+yeyo|to be (after vowel)
+jeo|me
+mwo|what
+i|this (near me)
+geu|that (near you)
+jeo|that (over there)

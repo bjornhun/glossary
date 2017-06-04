@@ -1,0 +1,11 @@
+mul|water
+gabang|bag
+samusil|office
+hakgyo|school
+chaek|book
+geo|thing
+kamera|camera
+keopi|coffee
+sajeon|dictionary
+haendeupon|cellphone
+saram|person
