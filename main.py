@@ -1,23 +1,26 @@
 from WordList import WordList
 import os
 
-supportedLanguages = ["japanese", "korean"]
+supportedLanguages = os.listdir("textfiles")
 
 def getPath():
 	while True:
-		print("Do you want to practice Japanese or Korean?")
-		language = input()
-		if language not in supportedLanguages:
+		print("Choose language: ")
+		for supportedLanguage in supportedLanguages:
+			print(supportedLanguage)
+
+		chosenLanguage = input()
+		if chosenLanguage not in supportedLanguages:
 			print("Language is not supported.")
 		else:
 			break
 
-	filepath = "textfiles/" + language + "/"
+	filepath = "textfiles/" + chosenLanguage + "/"
 	files = os.listdir(filepath)
 
 
 	while True:
-		print("Please choose one of the following files:\n")
+		print("\nPlease choose one of the following files:\n")
 
 		for file in files:
 			print("- " + file[:-4])
