@@ -47,7 +47,7 @@ def run():
 	content = readFile(path)
 	wordlist = WordList(content)
 
-	print("\nKonnichi wa! Hajimemashou!")
+	print("\nWelcome! Let's begin!")
 	print("\nType [e] for elimination run.")
 	mode = input()
 
