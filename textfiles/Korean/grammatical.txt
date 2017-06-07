@@ -1,7 +1,15 @@
 ieyo|to be (after consonant)
 yeyo|to be (after vowel)
+anieyo|to not be
+isseoyo|to exist, to have
+eopsseoyo|to not exist, to not have
+juseyo|please give me
+gosipeoyo|I want to... (suffix)
 jeo|me
-mwo|what
 i|this (near me)
 geu|that (near you)
 jeo|that (over there)
+deo|more
+mwo|what
+eodi|where, which place
+eonje|when

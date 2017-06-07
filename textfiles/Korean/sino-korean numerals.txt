@@ -1,0 +1,12 @@
+il|1
+i|2
+sam|3
+sa|4
+o|5
+ryuk|6
+chil|7
+pal|8
+gu|9
+sip|10
+baek|100
+cheon|1000

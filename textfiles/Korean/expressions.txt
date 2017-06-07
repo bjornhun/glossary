@@ -7,3 +7,8 @@ annyeonghi gaseyo|good bye (go in peace)
 joesong hapnida|I'm sorry, I apologize
 jeogiyo|excuse me (seeking attention)
 majayo|that's right
+joayo|it's good
+masisseoyo|it's tasty
+madeopseoyo|it's not tasty
+jalmeokgesseumnida|thanks for the meal (before eating)
+jalmeogeosseumnida|thanks for the meal (after eating)

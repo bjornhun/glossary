@@ -1,0 +1,6 @@
+oneul|today
+eoje|yesterday
+naeil|tomorrow
+jigeum|now
+akka|earlier
+najunge|later

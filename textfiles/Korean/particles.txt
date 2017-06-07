@@ -1,0 +1,6 @@
+neun|topic marking particle after vowel
+eun|topic marking particle after consonant
+ga|subject marking particle after vowel
+i|subject marking particle after consonant
+e|at, to
+eseo|at, in, from
