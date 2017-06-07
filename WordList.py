@@ -45,13 +45,6 @@ class WordList(UserDict):
             for eword in list(self.keys()):
                 print("- %s" % self[eword][0])
 
-            addToCustom = input("\nWould you like to save words to custom file? [y/n]\n")
-            if (addToCustom == 'y'):
-                with open("textfiles/custom.txt", "a") as customfile:
-                    for eword in list(self.keys()):
-                        customfile.write("%s|%s\n" % (self[eword][0], eword))
-                print("Words saved to custom file.\n")
-
         else:
             print("\nYou already know all the words!")
 
