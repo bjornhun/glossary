@@ -22,3 +22,4 @@ isanghada|to be strange
 meositda|to be cool
 dochakada|to arrive
 ireonada|to get up
+beorida|to throw away

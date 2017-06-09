@@ -40,17 +40,17 @@ class WordList(UserDict):
 			if self.checkAnswer(ans, eword):
 				del self[eword]
 
+		with open("textfiles/temp.txt", "w") as tempfile:
+			for eword in list(self.keys()):
+				tempfile.write("%s|%s\n" % (self[eword][0], eword))
+
 		if self:
 			print("\nYou need to learn the following words:")
 			for eword in list(self.keys()):
 				print("- %s" % self[eword][0])
 
-			with open("textfiles/temp.txt", "w") as tempfile:
-				for eword in list(self.keys()):
-					tempfile.write("%s|%s\n" % (self[eword][0], eword))
-
 		else:
-			print("\nYou already know all the words!")
+			print("\nYou know all the words!")
 
 	def interrogate(self, eword):
 		print("Write it three times!")

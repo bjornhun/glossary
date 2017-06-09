@@ -10,13 +10,14 @@ def getPath():
 			print(supportedLanguage)
 
 		chosenLanguage = input()
-		if chosenLanguage not in supportedLanguages:
+		if chosenLanguage.lower() not in [s.lower() for s in supportedLanguages]:
 			print("Language is not supported.")
 		else:
 			break
 
 	filepath = "textfiles/" + chosenLanguage + "/"
 	files = os.listdir(filepath)
+	files.remove("temp.txt")
 
 
 	while True:
@@ -48,14 +49,21 @@ def run():
 	wordlist = WordList(content)
 
 	print("\nWelcome! Let's begin!")
-	print("\nType [e] for elimination run.")
-	mode = input()
 
-	if (mode == "e"):
-		wordlist.elimination()
-
+	wordlist.elimination()
 	if wordlist:
 		wordlist.test()
+
+	while True:
+		content = readFile("textfiles/temp.txt")
+		wordlist = WordList(content)
+		if wordlist:
+			wordlist.elimination()
+			if wordlist:
+				wordlist.test()
+		else:
+			break
+
 
 	finish = input("\nWell done! Press enter to quit.")
 

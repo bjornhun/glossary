@@ -10,6 +10,7 @@ i|this (near me)
 geu|that (near you)
 jeo|that (over there)
 deo|more
-mwo|what
-eodi|where, which place
-eonje|when
+jinjja|really, surely
+neomo|so, too
+jeongmal|really, truly
+sal|age suffix

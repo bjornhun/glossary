@@ -4,3 +4,6 @@ ga|subject marking particle after vowel
 i|subject marking particle after consonant
 e|at, to
 eseo|at, in, from
+eseo|from (locations)
+buteo|from (time)
+kkaji|to, until

@@ -25,4 +25,4 @@ mat|taste
 tellebijeon|TV
 nyuseu|news
 hanguk|Korea
-jip|home
+jib|home
