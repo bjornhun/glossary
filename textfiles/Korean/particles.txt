@@ -2,8 +2,7 @@ neun|topic marking particle after vowel
 eun|topic marking particle after consonant
 ga|subject marking particle after vowel
 i|subject marking particle after consonant
-e|at, to
-eseo|at, in, from
-eseo|from (locations)
+eseo|at, in, from (locations)
 buteo|from (time)
 kkaji|to, until
+e|at, to

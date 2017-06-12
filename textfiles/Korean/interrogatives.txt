@@ -4,5 +4,5 @@ eonje|when
 nugu|who
 eotteoke|how
 wae|why
-eolma|how much
+eolma|how much (money)
 eolmana|how + adjective

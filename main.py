@@ -2,6 +2,7 @@ from WordList import WordList
 import os
 
 supportedLanguages = os.listdir("textfiles")
+supportedLanguages.remove("temp.txt")
 
 def getPath():
 	while True:
@@ -17,7 +18,6 @@ def getPath():
 
 	filepath = "textfiles/" + chosenLanguage + "/"
 	files = os.listdir(filepath)
-	files.remove("temp.txt")
 
 
 	while True:
@@ -65,6 +65,9 @@ def run():
 			break
 
 
-	finish = input("\nWell done! Press enter to quit.")
+	more = input("\nWell done! Do you want to learn more words?")
+
+	if (more.lower() == "y") or (more.lower() == "yes"): 
+		run()
 
 run()

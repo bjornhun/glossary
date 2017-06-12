@@ -26,3 +26,6 @@ tellebijeon|TV
 nyuseu|news
 hanguk|Korea
 jib|home
+seonmul|present
+saengil|birthday
+chukha|congratulation, celebration
