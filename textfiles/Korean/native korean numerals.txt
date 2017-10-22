@@ -11,7 +11,7 @@ yeol|10
 seumul|20
 seoreun|30
 maheun|40
-swim|50
+swin|50
 yesun|60
 ireun|70
 yeodeun|80

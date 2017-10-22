@@ -1,5 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from WordList import WordList
 import os
+import random
 
 supportedLanguages = os.listdir("textfiles")
 supportedLanguages.remove("temp.txt")
@@ -40,6 +44,9 @@ def getPath():
 def readFile(path):
 	with open(path) as f:
 		content = f.read().splitlines()
+
+	if path.endswith("50random.txt"):
+		content = random.sample(content, 50)
 
 	return content
 
