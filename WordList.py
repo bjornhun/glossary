@@ -43,7 +43,7 @@ class WordList(UserDict):
 			if self.checkAnswer(ans, eword):
 				del self[eword]
 
-		with open("textfiles/temp.txt", "w") as tempfile:
+		with open("textfiles/temp.txt", "w", encoding='utf-8') as tempfile:
 			for eword in list(self.keys()):
 				tempfile.write("%s|%s\n" % (self[eword][0], eword))
 

@@ -42,7 +42,7 @@ def getPath():
 
 
 def readFile(path):
-	with open(path) as f:
+	with open(path, encoding='utf-8') as f:
 		content = f.read().splitlines()
 
 	if path.endswith("50random.txt"):
